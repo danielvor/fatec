@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SistemaAcademicoApplication",
+            "request": "launch",
+            "mainClass": "br.edu.fatecitaquera.SistemaAcademicoApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "Spring Boot-SistemaAcademicoApplication<SistemaAcademico>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
